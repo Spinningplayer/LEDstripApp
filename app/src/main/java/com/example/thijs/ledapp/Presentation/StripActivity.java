@@ -64,8 +64,6 @@ public class StripActivity  extends AppCompatActivity implements EspRequest.Requ
                 int B = (color      ) & 0xff;
 
                 strip.data = new PacketData(R, G, B, A, 0, 7);
-                Config.STRIP_ONE_DATA = strip.data;
-                Config.STRIP_ONE_TOGGLE = true;
             }
         });
     }
