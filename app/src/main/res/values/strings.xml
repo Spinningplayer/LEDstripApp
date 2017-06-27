@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LedApp</string>
+    <string name="request_unavailable">Request failed: server unavailable</string>
+    <string name="request_failed">Request failed: error on server side</string>
+    <string name="response_failed">Response failed</string>
+    <string name="empty_packet">Kies eerst een kleur</string>
+</resources>
